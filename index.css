@@ -54,8 +54,8 @@ ul >li:hover{
   width:18vw;
 }
 #check1{
-  background-color:blue;
-  color:black;
+  background-color:black;
+  color:white;
   font-size:30px;
   border-style:groove;
   border-radius:10px;
