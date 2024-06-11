@@ -9,3 +9,10 @@ real1.addEventListener('click' ,click1);
 function click1(){
   document.body.style.backgroundColor ="yellow";
 }
+
+
+let blue = document.getElementById("remove");
+blue.addEventListener('click',update);
+function update(){
+  document.body.style.backgroundColor = "blue"
+}
