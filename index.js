@@ -14,5 +14,5 @@ function click1(){
 let blue = document.getElementById("remove");
 blue.addEventListener('click',update);
 function update(){
-  document.body.style.backgroundColor = "blue"
+  document.body.style.backgroundColor = "pink"
 }
