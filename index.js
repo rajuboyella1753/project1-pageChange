@@ -7,7 +7,7 @@ function click(){
 let real1 = document.getElementById("check1");
 real1.addEventListener('click' ,click1);
 function click1(){
-  document.body.style.backgroundColor ="yellow";
+  document.body.style.backgroundColor ="blue";
 }
 
 
